@@ -1,5 +1,42 @@
- .First_List {
-     background-color: blue
-     color: lightblue
-     
- }
+.First_List {
+     background-color: lightblue
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.center1 {
+    text-align:  center;
+}
+article {
+    display: block;
+    background-color: rgb(212, 212, 131);
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+html {
+    display: block;
+
+}
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+    background-color: #999;
+}
+main {
+    background-color: darkgray;
+}
+footer {
+    text-align: center;
+    padding: 3em;
+}
+figcaption {
+    text-align: center;
+    margin-bottom: 35px;
+
+}
